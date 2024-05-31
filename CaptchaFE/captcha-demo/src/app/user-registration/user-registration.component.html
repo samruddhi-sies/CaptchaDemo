@@ -1,0 +1,11 @@
+
+<form  [formGroup]="registrationForm" (ngSubmit)="registerUser(registrationForm.value)">
+    <input type="text" placeholder="Enter FirstName" formControlName="firstName"><br><br>
+    <input type="text" placeholder="Enter LastName" formControlName="lastName"><br><br>
+    <input type="email" placeholder="Enter Email" formControlName="email"><br><br>
+    <input type="password" placeholder="Enter password" formControlName="password"><br><br>
+    <re-captcha (resolved)="onCaptchaResolved($event)" siteKey="6LdRf-0pAAAAAAWUkJRSHxJHD2_O8VtMboC0tXh2">  </re-captcha>
+      <br/>
+    <button [disabled]="!registrationForm.valid || !captchaResolved">Register</button>
+</form>
+

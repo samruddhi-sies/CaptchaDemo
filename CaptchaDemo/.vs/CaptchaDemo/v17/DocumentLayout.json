@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\VS Trial Projects\\CaptchaDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11406189-5C58-47D9-8BEC-E155A57D53ED}|CaptchaDemo.csproj|f:\\vs trial projects\\captchademo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11406189-5C58-47D9-8BEC-E155A57D53ED}|CaptchaDemo.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11406189-5C58-47D9-8BEC-E155A57D53ED}|CaptchaDemo.csproj|f:\\vs trial projects\\captchademo\\recaptchaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11406189-5C58-47D9-8BEC-E155A57D53ED}|CaptchaDemo.csproj|solutionrelative:recaptchaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11406189-5C58-47D9-8BEC-E155A57D53ED}|CaptchaDemo.csproj|f:\\vs trial projects\\captchademo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11406189-5C58-47D9-8BEC-E155A57D53ED}|CaptchaDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11406189-5C58-47D9-8BEC-E155A57D53ED}|CaptchaDemo.csproj|f:\\vs trial projects\\captchademo\\models\\recaptcharesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11406189-5C58-47D9-8BEC-E155A57D53ED}|CaptchaDemo.csproj|solutionrelative:models\\recaptcharesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11406189-5C58-47D9-8BEC-E155A57D53ED}|CaptchaDemo.csproj|f:\\vs trial projects\\captchademo\\captchademo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{11406189-5C58-47D9-8BEC-E155A57D53ED}|CaptchaDemo.csproj|solutionrelative:captchademo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11406189-5C58-47D9-8BEC-E155A57D53ED}|CaptchaDemo.csproj|f:\\vs trial projects\\captchademo\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11406189-5C58-47D9-8BEC-E155A57D53ED}|CaptchaDemo.csproj|solutionrelative:dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11406189-5C58-47D9-8BEC-E155A57D53ED}|CaptchaDemo.csproj|f:\\vs trial projects\\captchademo\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11406189-5C58-47D9-8BEC-E155A57D53ED}|CaptchaDemo.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RecaptchaResponse.cs",
+              "DocumentMoniker": "F:\\VS Trial Projects\\CaptchaDemo\\Models\\RecaptchaResponse.cs",
+              "RelativeDocumentMoniker": "Models\\RecaptchaResponse.cs",
+              "ToolTip": "F:\\VS Trial Projects\\CaptchaDemo\\Models\\RecaptchaResponse.cs",
+              "RelativeToolTip": "Models\\RecaptchaResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:48:01.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecaptchaService.cs",
+              "DocumentMoniker": "F:\\VS Trial Projects\\CaptchaDemo\\RecaptchaService.cs",
+              "RelativeDocumentMoniker": "RecaptchaService.cs",
+              "ToolTip": "F:\\VS Trial Projects\\CaptchaDemo\\RecaptchaService.cs",
+              "RelativeToolTip": "RecaptchaService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:46:07.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "F:\\VS Trial Projects\\CaptchaDemo\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "Dto\\UserDto.cs",
+              "ToolTip": "F:\\VS Trial Projects\\CaptchaDemo\\Dto\\UserDto.cs",
+              "RelativeToolTip": "Dto\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T09:11:06.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CaptchaDemo",
+              "DocumentMoniker": "F:\\VS Trial Projects\\CaptchaDemo\\CaptchaDemo.csproj",
+              "RelativeDocumentMoniker": "CaptchaDemo.csproj",
+              "ToolTip": "F:\\VS Trial Projects\\CaptchaDemo\\CaptchaDemo.csproj",
+              "RelativeToolTip": "CaptchaDemo.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-31T09:10:44.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\VS Trial Projects\\CaptchaDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "F:\\VS Trial Projects\\CaptchaDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAewB4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T09:07:18.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\VS Trial Projects\\CaptchaDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\VS Trial Projects\\CaptchaDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAwAAAAAZmZmZmYSwB4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T09:02:25.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\VS Trial Projects\\CaptchaDemo\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "F:\\VS Trial Projects\\CaptchaDemo\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T08:54:48.537Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

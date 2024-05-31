@@ -1,0 +1,6 @@
+@CaptchaDemo_HostAddress = http://localhost:5054
+
+GET {{CaptchaDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
